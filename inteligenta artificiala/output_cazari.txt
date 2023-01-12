@@ -1,0 +1,832 @@
+Nume Cazare: Casa Doina Residence
+Recenzii: 35 recenzii
+Pret: 130 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Casa lui Andrei
+Recenzii: nota 10 din 26 recenzii
+Pret: 170 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Bogdan
+Recenzii: nota 10 din 2 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Panoramic
+Recenzii: 1 recenzie
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Fox
+Recenzii: 9 recenzii
+Pret: 700 lei/noapte/integral
+
+Nume Cazare: Casa lui Andrei
+Recenzii: nota 10 din 40 recenzii
+Pret: 100 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Luchiancu
+Recenzii: nota 8.08 din 331 recenzii
+Pret: 1000 lei/noapte/studio
+
+Nume Cazare: Camere de închiriat Gabi
+Recenzii: 17 recenzii
+Pret: 160 lei/noapte/cam. dublă 
+
+Nume Cazare: Căsuța Noastră
+Recenzii: 3 recenzii
+Pret: 99 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea La Doi Ponei
+Recenzii: 15 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Hotel Iri
+Recenzii: 4 recenzii
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Selen
+Recenzii: nota 10 din 9 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Marion
+Recenzii: nota 10 din 24 recenzii
+Pret: 175 lei/noapte/cam. dublă 
+
+Nume Cazare: Cabana de Piatră
+Recenzii: nota 10 din 1 recenzie
+Pret: 500 lei/noapte/integral
+
+Nume Cazare: Apartament Premium View
+Recenzii: 1 recenzie
+Pret: 300 lei/noapte/apt. 2 cam.
+
+Nume Cazare: Casa Daniel
+Recenzii: 4 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila The Bear House 2
+Recenzii: nota 10 din 1 recenzie
+Pret: 1100 lei/noapte/integral
+
+Nume Cazare: Vila Foișoru'
+Recenzii: nota 10 din 44 recenzii
+Pret: 240 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Florica
+Recenzii: nota 10 din 7 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Complex Turistic Mona Caraiman
+Recenzii: 28 recenzii
+Pret: 220 lei/noapte/cam. dublă  cu mic dejun  cu mic dejun inclus
+
+Nume Cazare: Casa Daniela
+Recenzii: 20 recenzii
+Pret: 90 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Alex
+Recenzii: nota 10 din 8 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Căldură Rodica
+Recenzii: nota 9.86 din 17 recenzii
+Pret: 140 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa de vacanță Cabana Bellavista
+Recenzii: nota 10 din 6 recenzii
+Pret: 900 lei/noapte/integral
+
+Nume Cazare: Camere de închiriat Dingym
+Recenzii: nota 10 din 18 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa The Bear House
+Recenzii: nota 10 din 10 recenzii
+Pret: 900 lei/noapte/integral
+
+Nume Cazare: Vila Kira
+Recenzii: nota 9.83 din 3 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Casa Topliceanu
+Recenzii: nota 9.94 din 20 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Cabana Carp
+Recenzii: nota 10 din 32 recenzii
+Pret: 700 lei/noapte/integral
+
+Nume Cazare: Pensiunea Kalinder
+Recenzii: 9 recenzii
+Pret: 350 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Andy
+Recenzii: nota 10 din 1 recenzie
+Pret: 170 lei/noapte/cam. dublă 
+
+Nume Cazare: Zen House
+Recenzii: nota 10 din 1 recenzie
+Pret: 700 lei/noapte/integral
+
+Nume Cazare: Casa Trifan
+Recenzii: 1 recenzie
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Gdg
+Recenzii: 16 recenzii
+Pret: 300 lei/noapte/apt. 2 cam.
+
+Nume Cazare: Vila Deea
+Recenzii: nota 10 din 22 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Apartament Panoramic View
+Recenzii: 17 recenzii
+Pret: 300 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Cornel
+Recenzii: nota 10 din 8 recenzii
+Pret: 180 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Luminița
+Recenzii: nota 7.33 din 1 recenzie
+Pret: 300 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea The Ghetto
+Recenzii: 11 recenzii
+Pret: 300 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Mihail
+Recenzii: nota 10 din 5 recenzii
+Pret: 80 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Bușteni Residence
+Recenzii: nota 10 din 13 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Carmen
+Recenzii: nota 10 din 14 recenzii
+Pret: 750 lei/noapte/integral
+
+Nume Cazare: Casa Gimy
+Recenzii: nota 10 din 5 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Diana
+Recenzii: nota 10 din 1 recenzie
+Pret: 99 lei/noapte/garsonieră
+
+Nume Cazare: Pensiunea Păunașul
+Recenzii: 3 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Cătălina
+Recenzii: 3 recenzii
+Pret: 220 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Manea
+Recenzii: nota 10 din 6 recenzii
+Pret: 110 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa de vacanță C House
+Recenzii: nota 10 din 49 recenzii
+Pret: 1000 lei/noapte/integral
+
+Nume Cazare: Suru Hotel & Restaurant
+Recenzii: nota 10 din 7 recenzii
+Pret: 345 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Bonsai
+Recenzii: 2 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Munteanu Niculina
+Recenzii: 8 recenzii
+Pret: 150 lei/noapte/garsonieră
+
+Nume Cazare: Casa Montana
+Recenzii: 5 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Silver Cloud
+Recenzii: nota 10 din 1 recenzie
+Pret: 850 lei/noapte/integral
+
+Nume Cazare: Apartament Montan
+Recenzii: nota 9.96 din 9 recenzii
+Pret: 190 lei/noapte/apt. 2 cam.
+
+Nume Cazare: Casa Manea 2
+Recenzii: nota 10 din 46 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat For You
+Recenzii: nota 10 din 29 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Doina
+Recenzii: 16 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Hotel  Pârâul Rece
+Recenzii: 2 recenzii
+Pret: 300 lei/noapte/cam. dublă  cu mic dejun  cu mic dejun inclus
+
+Nume Cazare: Căsuța lui Eric
+Recenzii: nota 10 din 66 recenzii
+Pret: 180 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Ciocârlia
+Recenzii: nota 10 din 5 recenzii
+Pret: 130 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Iulia
+Recenzii: 59 recenzii
+Pret: 120 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Tex
+Recenzii: 6 recenzii
+Pret: 750 lei/noapte/cabană
+
+Nume Cazare: Vila Brândușa
+Recenzii: nota 10 din 1 recenzie
+Pret: 1400 lei/noapte/integral
+
+Nume Cazare: Studio 31
+Recenzii: nota 8.62 din 7 recenzii
+Pret: 220 lei/noapte/studio
+
+Nume Cazare: Vila Ceair
+Recenzii: 37 recenzii
+Pret: 220 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa de vacanță Elena
+Recenzii: 2 recenzii
+Pret: 450 lei/noapte/integral
+
+Nume Cazare: Casa Roxana
+Recenzii: 7 recenzii
+Pret: 950 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila G&G
+Recenzii: nota 10 din 23 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Steaua Nordului
+Recenzii: nota 10 din 19 recenzii
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Alecs
+Recenzii: 14 recenzii
+Pret: 200 lei/noapte/căsuță
+
+Nume Cazare: Vila Mareșal
+Recenzii: nota 9.98 din 41 recenzii
+Pret: 2200 lei/noapte/integral
+
+Nume Cazare: Vila Foișor
+Recenzii: nota 10 din 27 recenzii
+Pret: 180 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Matei
+Recenzii: nota 10 din 1 recenzie
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Clasic
+Recenzii: nota 10 din 22 recenzii
+Pret: 170 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Maria
+Recenzii: nota 10 din 33 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Casa Rareș
+Recenzii: 3 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Burețea
+Recenzii: 48 recenzii
+Pret: 120 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Frida
+Recenzii: 5 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Lia
+Recenzii: nota 10 din 5 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Căsuța Pădurarului
+Recenzii: 16 recenzii
+Pret: 99 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Mădălina
+Recenzii: nota 10 din 2 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Bijoux
+Recenzii: 1 recenzie
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Cataleya
+Recenzii: 28 recenzii
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Apartament Erica
+Recenzii: nota 8.86 din 14 recenzii
+Pret: 250 lei/noapte/apt. 3 cam.
+
+Nume Cazare: Casa Anne
+Recenzii: 16 recenzii
+Pret: 170 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Alice
+Recenzii: 3 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Confort
+Recenzii: nota 10 din 8 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila DDM Daniel
+Recenzii: 8 recenzii
+Pret: 140 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Morarului
+Recenzii: 3 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa de vacanță Valentino
+Recenzii: nota 8.95 din 10 recenzii
+Pret: 900 lei/noapte/integral
+
+Nume Cazare: Casa Emilia
+Recenzii: 12 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Nisi
+Recenzii: nota 9.33 din 7 recenzii
+Pret: 120 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila D&D
+Recenzii: nota 10 din 4 recenzii
+Pret: 180 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Mihăiță
+Recenzii: 10 recenzii
+Pret: 130 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Edy
+Recenzii: 3 recenzii
+Pret: 125 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Mara
+Recenzii: 8 recenzii
+Pret: 190 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Viitorul
+Recenzii: nota 10 din 67 recenzii
+Pret: 1200 lei/noapte/integral
+
+Nume Cazare: Casa Natalia
+Recenzii: 12 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Sfinx
+Recenzii: 1 recenzie
+Pret: 160 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Adelina
+Recenzii: nota 10 din 17 recenzii
+Pret: 700 lei/noapte/integral
+
+Nume Cazare: Casa Danțu
+Recenzii: 13 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Căsuța de la Munte 1
+Recenzii: nota 10 din 61 recenzii
+Pret: 100 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Jepi
+Recenzii: nota 10 din 6 recenzii
+Pret: 199 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Adenna
+Recenzii: 8 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Valem
+Recenzii: 2 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Curcubeu
+Recenzii: nota 10 din 1 recenzie
+Pret: 290 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Valea Albă
+Recenzii: nota 10 din 3 recenzii
+Pret: 180 lei/noapte/cam. dublă 
+
+Nume Cazare: Casutele David
+Recenzii: 1 recenzie
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa de vacanță Magnolia
+Recenzii: nota 10 din 84 recenzii
+Pret: 120 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Ana
+Recenzii: 1 recenzie
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Casa Liana
+Recenzii: nota 9 din 1 recenzie
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa de vacanță Poiana Golf Chalet
+Recenzii: nota 10 din 1 recenzie
+Pret: 500 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat ASK Mountain
+Recenzii: 3 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Claudiu
+Recenzii: 29 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Raluca
+Recenzii: nota 10 din 8 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Katalina 2
+Recenzii: nota 10 din 8 recenzii
+Pret: 170 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Teleferic
+Recenzii: 43 recenzii
+Pret: 180 lei/noapte/cam. dublă 
+
+Nume Cazare: Apartament Gray
+Recenzii: 35 recenzii
+Pret: 300 lei/noapte/garsonieră
+
+Nume Cazare: Camere de închiriat Eidolon
+Recenzii: 1 recenzie
+Pret: 160 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Mariana
+Recenzii: nota 10 din 55 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Apartament Diana
+Recenzii: nota 10 din 7 recenzii
+Pret: 150 lei/noapte/garsonieră
+
+Nume Cazare: Pensiunea Cetatea Caraiman
+Recenzii: 4 recenzii
+Pret: 170 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Varipatti
+Recenzii: 6 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Sarah
+Recenzii: 2 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Amurgului
+Recenzii: nota 10 din 3 recenzii
+Pret: 140 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Radu
+Recenzii: nota 10 din 208 recenzii
+Pret: 160 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Casa Artemis
+Recenzii: nota 10 din 34 recenzii
+Pret: 140 lei/noapte/cam. dublă 
+
+Nume Cazare: Căsuța de la Munte 2
+Recenzii: 11 recenzii
+Pret: 90-110 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Belvedere
+Recenzii: 1 recenzie
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Mihaela
+Recenzii: nota 10 din 71 recenzii
+Pret: 120 lei/noapte/cam. dublă 
+
+Nume Cazare: Studio De Lux Montana
+Recenzii: nota 10 din 2 recenzii
+Pret: 350 lei/noapte/studio
+
+Nume Cazare: Casa cu Flori
+Recenzii: 2 recenzii
+Pret: 130 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Bertha
+Recenzii: 47 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Roșca
+Recenzii: 3 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Romina
+Recenzii: 27 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Hotel Silva
+Recenzii: nota 9.94 din 13 recenzii
+Pret: 280 lei/noapte/cam. dublă
+
+Nume Cazare: Pensiunea Casa Raisa
+Recenzii: 7 recenzii
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Raisa
+Recenzii: nota 10 din 16 recenzii
+Pret: 230 lei/noapte/cam. dublă
+
+Nume Cazare: Pensiunea Liziera
+Recenzii: 10 recenzii
+Pret: 160 lei/noapte/cam. dublă
+
+Nume Cazare: Pensiunea Belcin
+Recenzii: nota 10 din 21 recenzii
+Pret: 300 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Merlea
+Recenzii: 3 recenzii
+Pret: 300 lei/noapte/integral
+
+Nume Cazare: Casa Teomar
+Recenzii: 15 recenzii
+Pret: 130 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Izvorul Muntelui
+Recenzii: nota 10 din 17 recenzii
+Pret: 750 lei/noapte/integral
+
+Nume Cazare: Camere de închiriat Casa Fanel
+Recenzii: nota 9.99 din 28 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Bellevue Zamora By CityLife Suites
+Recenzii: nota 10 din 5 recenzii
+Pret: 1400 lei/noapte/integral
+
+Nume Cazare: Casa Veronica
+Recenzii: nota 10 din 6 recenzii
+Pret: 170 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Villa Ermitage
+Recenzii: nota 8.08 din 8 recenzii
+Pret: 275 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Toader
+Recenzii: 22 recenzii
+Pret: 150 lei/noapte/cam. dublă economy
+
+Nume Cazare: Camere de închiriat Casa Florescu
+Recenzii: nota 10 din 1 recenzie
+Pret: 180 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Șinca
+Recenzii: nota 9.97 din 18 recenzii
+Pret: 300 lei/noapte/integral
+
+Nume Cazare: Casa Buni
+Recenzii: 39 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Apartament Valea Cerbului
+Recenzii: nota 10 din 1 recenzie
+Pret: 500 lei/noapte/integral
+
+Nume Cazare: Pensiunea Mont Sebastian
+Recenzii: nota 10 din 7 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Vintage House
+Recenzii: nota 10 din 7 recenzii
+Pret: 2000 lei/noapte/integral
+
+Nume Cazare: Casa Farcaș
+Recenzii: 4 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Albu
+Recenzii: 12 recenzii
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Casa Albă
+Recenzii: nota 10 din 81 recenzii
+Pret: 210 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Horga
+Recenzii: nota 10 din 3 recenzii
+Pret: 120 lei/noapte/cam. dublă 
+
+Nume Cazare: Villa Falco Bianco
+Recenzii: 8 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Maria
+Recenzii: nota 10 din 9 recenzii
+Pret: 150-160 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Confort Lia
+Recenzii: nota 10 din 1 recenzie
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Apartament Telecabinei
+Recenzii: nota 10 din 39 recenzii
+Pret: 450 lei/noapte/apt. 3 cam.
+
+Nume Cazare: Vila Gal
+Recenzii: 7 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Apartament Montapart
+Recenzii: 9 recenzii
+Pret: 250 lei/noapte/apt. 2 cam.
+
+Nume Cazare: Casa Anduțu
+Recenzii: 37 recenzii
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Matei
+Recenzii: nota 9.98 din 8 recenzii
+Pret: 165 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Roth
+Recenzii: 19 recenzii
+Pret: 180 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Doua Minuni
+Recenzii: 13 recenzii
+Pret: 140 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Holiday House
+Recenzii: nota 10 din 23 recenzii
+Pret: 143 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Papillon
+Recenzii: 8 recenzii
+Pret: 700 lei/noapte/integral
+
+Nume Cazare: Casa Luce
+Recenzii: 5 recenzii
+Pret: 280 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Miky
+Recenzii: 25 recenzii
+Pret: 160 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Andrei
+Recenzii: 6 recenzii
+Pret: 70 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Zuzulache
+Recenzii: nota 10 din 1 recenzie
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Cascada
+Recenzii: 5 recenzii
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Bălașa
+Recenzii: 1 recenzie
+Pret: 180 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Anabella
+Recenzii: nota 9.67 din 9 recenzii
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Apartamente Kalinderu
+Recenzii: nota 10 din 1 recenzie
+Pret: 500 lei/noapte/apt. 2 cam.
+
+Nume Cazare: Pensiunea Navigator
+Recenzii: 8 recenzii
+Pret: 160 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Casa Ligiana
+Recenzii: 4 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Drumul Domnșiorilor
+Recenzii: 11 recenzii
+Pret: 1200 lei/noapte/integral
+
+Nume Cazare: Cabana Nova Cervus
+Recenzii: nota 10 din 18 recenzii
+Pret: 600 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Dobre
+Recenzii: 1 recenzie
+Pret: 175 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Adriana
+Recenzii: 193 recenzii
+Pret: Indisponibilă
+
+Nume Cazare: Casa Antonia
+Recenzii: nota 10 din 92 recenzii
+Pret: 300 lei/noapte/studio
+
+Nume Cazare: Apartament Teo
+Recenzii: nota 10 din 37 recenzii
+Pret: 250 lei/noapte/integral
+
+Nume Cazare: Casa Micu
+Recenzii: nota 10 din 23 recenzii
+Pret: 160-200 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Soris
+Recenzii: 6 recenzii
+Pret: 170 lei/noapte/cam. dublă 
+
+Nume Cazare: Camere de închiriat Casa Dorion
+Recenzii: nota 10 din 2 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Hygge House
+Recenzii: 15 recenzii
+Pret: 300 lei/noapte/apt. 2 cam.
+
+Nume Cazare: Vila Mountain Rose
+Recenzii: nota 8.75 din 7 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Skadi - Zamora
+Recenzii: nota 9.89 din 10 recenzii
+Pret: 1600 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Nick
+Recenzii: 2 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Panduri 23
+Recenzii: 4 recenzii
+Pret: 1400 lei/noapte/cabană
+
+Nume Cazare: Pensiunea Public House
+Recenzii: 5 recenzii
+Pret: 300 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Sport
+Recenzii: nota 10 din 38 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Elyas Montagne
+Recenzii: 2 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Pensiunea Casa Cu Brazi
+Recenzii: nota 8.67 din 6 recenzii
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Voyage
+Recenzii: nota 10 din 1 recenzie
+Pret: 1000 lei/noapte/integral
+
+Nume Cazare: Vila Olimpia
+Recenzii: 3 recenzii
+Pret: 180 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Madisa
+Recenzii: nota 7.5 din 3 recenzii
+Pret: 250 lei/noapte/cam. dublă 
+
+Nume Cazare: Apartament Best View
+Recenzii: nota 10 din 7 recenzii
+Pret: 500 lei/noapte/apt. 3 cam.
+
+Nume Cazare: Complex Turistic Izvorul cu Păstrăvi
+Recenzii: 1 recenzie
+Pret: 175 lei/noapte/cam. dublă 
+
+Nume Cazare: Casa Katy
+Recenzii: 6 recenzii
+Pret: 200 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Dolly
+Recenzii: nota 10 din 3 recenzii
+Pret: 1000 lei/noapte/integral
+
+Nume Cazare: Casa Ramino
+Recenzii: 46 recenzii
+Pret: 150 lei/noapte/cam. dublă 
+
+Nume Cazare: Vila Florilor
+Recenzii: nota 10 din 2 recenzii
+Pret: 220 lei/noapte/căsuță
+
+Nume Cazare: Casa Yoana
+Recenzii: 1 recenzie
+Pret: 1500 lei/noapte/integral
+
