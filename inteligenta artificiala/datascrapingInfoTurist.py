@@ -21,9 +21,17 @@ pret = []
 for p in soup.find_all('div', {'itemprop' : 'priceRange' }):
     pret.append(p.text)
     
-d = {'Nume Hotel': cazare, 'Recenzii': recenzii, 'Pret': pret}
+# d = {'Nume Hotel': cazare, 'Recenzii': recenzii, 'Pret': pret}
 
+
+    f = open("output_cazari.txt", "w", encoding="utf-8")
 zip(cazare, recenzii, pret)
 for (a,b,c) in zip(cazare, recenzii, pret):
-    print (a ,b ,c)
+    # print (a ,b ,c)
+    f.write("Nume Cazare: " + str(a) + "\n")
+    f.write("Recenzii: " + str(b) + "\n")
+    f.write("Pret: " + str(c) + "\n")
+    f.write("\n")
+
+
 
